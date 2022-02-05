@@ -1,1 +1,1 @@
-# study-abroad-app
+# Study Abroad Application
